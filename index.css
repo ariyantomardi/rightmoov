@@ -4,7 +4,7 @@
    overflow: auto;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1224px) {
   .left-content{
     height: 58%;
      position: absolute;
