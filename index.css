@@ -1,0 +1,18 @@
+.left-content{
+  height: 65%;
+   position: absolute;
+   overflow: auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .left-content{
+    height: 58%;
+     position: absolute;
+     overflow: auto;
+  }
+}
+@media screen and (max-width: 769px) {
+    .gmaps{
+      display:none;
+    }
+}
